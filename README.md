@@ -1,3 +1,3 @@
 # numguess
 
-### modify content to assignment.
+### Modify content to assignment.
