@@ -11,3 +11,9 @@ guess = input(f'Hi , {user_name}. Guess the number(1-100): ')
 
 # print to check
 print(user_name, guess)
+
+# Check and print correct or not
+if guess==answer:
+    print('Congratulations!')
+else:
+    print(f'Wrong answer! The answer was {answer}')
